@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(151, 213, 226);
+}
+
+p {
+    color: black;
+}
+
+h1,h2,h3 {
+    color: black;
+}
+
+h1 {
+    font-size: 60px;
+    left: 500px;
+    
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+
+}
+
+.blue {
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(9, 9, 101);
+    color: white;
+}
+
+#paragraph2 {
+    padding: 20px 20px 20px 20px;
+    width: 700px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+    background-color: white; 
+
+
+}
+
+ol {
+    list-style-type: decimal-leading-zero;
+    font-size: 18px;
+}
+
+ol a {
+  color: blue;
+}
+
+a[href="http://www.w3schools.com"] {
+  color: rgb(160, 9, 9);
+  text-decoration: underline;
+}
+
+
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  border: 1px solid black;
+  padding: 1px;
+  background-color: darkgray;    
+                  
+}
+
+td {
+  border: 1px solid black;
+  padding: 10px;
+  background-color: rgb(247, 247, 247);    
+}
